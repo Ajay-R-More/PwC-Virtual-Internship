@@ -1,4 +1,4 @@
-# PwC- Power BI Developer(Virtual Internship from Forage)
+# PwC- Power BI Developer(Virtual Internship)
 
 ### 1. Call Centre
 
